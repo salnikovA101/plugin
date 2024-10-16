@@ -3,6 +3,11 @@
   "displayName": "plugin",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+      "type": "git",
+       "url": "https://github.com/salnikovA101/plugin"
+     },
+
   "engines": {
     "vscode": "^1.54.0"
   },
